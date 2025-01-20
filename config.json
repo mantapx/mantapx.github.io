@@ -1,6 +1,6 @@
 config = {
 "uri":"https://mantapx.github.io",
-"redirect_uri":"https://mantapx.github.io/login.html",
+"redirect_uri":"https://accounts.spotify.com/authorize?client_id=25bff869271a472ea877c7aca857d5e1&redirect_uri=http%3A%2F%2Fwww.spotmybackup.com%2Flogin.html&scope=playlist-read%20playlist-read-private%20playlist-modify-public%20playlist-modify-private%20user-library-read%20user-library-modify&response_type=token&show_dialog=true",
 "client_id":"[YOUR_TOKEN_HERE]",
 "slowdown_import": 100,
 "slowdown_export": 100
