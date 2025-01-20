@@ -1,6 +1,6 @@
 config = {
-"uri":"http://localhost:8888",
-"redirect_uri":"http://localhost:8888/login.html",
+"uri":"https://mantapx.github.io",
+"redirect_uri":"https://mantapx.github.io/login.html",
 "client_id":"[YOUR_TOKEN_HERE]",
 "slowdown_import": 100,
 "slowdown_export": 100
